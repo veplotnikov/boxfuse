@@ -18,6 +18,6 @@ Boxfuse Sample Hello World Java application packaged as a war file
 3. mvn package
 4. boxfuse run target/hello-1.0.war
 
-Done!
+Done!!!
 
 Open your browser at http://localhost:8888 or simple type ```boxfuse open hello:1.0``` to see your brand new instance in action!
